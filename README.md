@@ -1,3 +1,3 @@
 # trest
-My first Git repository
-Author - Abu Baker Mohammed Sami
+My first Git repository.<br>
+Author - Abu Baker Mohammed Sami.
